@@ -76,15 +76,85 @@
   > The main goal is to develop a technique which replaces a subtraction operation with an addition. In this way, we will be able to use the same circuit to perform both addition and subtraction. This will reduce the number of gates.
 
   [https://www.allaboutcircuits.com/technical-articles/twos-complement-representation-theory-and-examples/]()
+<br><br>
 
 ##Overflow
 
+  > An integer overflow occurs when an arithmetic operation attempts to create a numeric value that is **outside of the range** that can be represented with a given number of digits – either **higher than the maximum or lower than the minimum** representable value.
 
+  [https://en.wikipedia.org/wiki/Integer_overflow]
+<br>
+
+  ![Overflow](https://lh3.googleusercontent.com/proxy/w87F0soeMGKCRrRU2c1bF7nfj8ZZXYUI5BuhbNju3R0Vw11eateSYPn7wKJxvvLrHZTjr6pTLV-SpmczRd3l07kp1CXD0kSE4ic)
+
+  [http://schoolcoders.com/wiki/Negative_binary_numbers]()
+<br><br>
+
+##Range of different binary representation methods
+
+  ![8-bit range](https://www3.ntu.edu.sg/home/ehchua/programming/java/images/DataRep_SignedIntegers.png)
+
+  [https://www3.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html]()
+<br><br>
 
 ##Character representation
 
+  |As computer can only store 0 and 1. Each bit pattern (combination/numeric value) is used to represent a character in computer system.|
+  |---|
+|Notice that even for the "same" character we could recognize (Eg. the Chinese word "一"). The representing code in different coding systems will be different.
+<br>
+
+####ASCII (English, Digits, Symbols)
+
+  ![ASCII](https://i.stack.imgur.com/89gYN.png)
+
+  [https://electronics.stackexchange.com/questions/275810/i-am-getting-question-marks-on-serial-while-trying-to-read-sd-card?rq=1]()
+<br>
+
+####GB (Simplified Chinese, English, Digits, Symbols)
+
+  ![GB](https://www.newton.com.tw/img/f/a26/wZwpmL2Y2Y1IDMygjZjFzYxAzNmJGNzImMwADZv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg)
+
+  [https://www.newton.com.tw/wiki/GB18030]()
+<br>
+
+####Big5 (Traditional Chinese, English, Digits, Symbols)
+
+  ![Big5](https://www.gammon.com.au/unicode/big5.svg.png)
+
+  [https://www.gammon.com.au/unicode/]()
+<br>
+
+####Unicode (All printable characters)
+
+  |Number of bytes used for each character depends on the number of language to be supported.<br>*Eg, if only Traditional Chinese is needed, only 2 bytes will be used for each character. If both Traditional Chinese and Simplified Chinese are needed, 3 bytes may be needed.|
+  |---|
+
+  ![Unicode](https://i.stack.imgur.com/6C0C6.png)
+
+  [https://stackoverflow.com/questions/2241348/what-is-unicode-utf-8-utf-16]()
+<br>
+
+####More coding systems (Just for reference)
+
+  ![More coding systems](http://www.ablmcc.edu.hk/~scy/home/javascript/encoding.png)
+
+  [http://www.ablmcc.edu.hk/~scy/home/javascript/number-system.htm]()
+<br><br>
 
 ##Digitization
+
+  > Digitization is the process of converting information into a digital format.
+
+[https://whatis.techtarget.com/definition/digitization]()
+<br>
+
+  Convert analog (consecutive) data into digital (discrete) data
+
+  ![Digitize audio data](https://cdn.hswstatic.com/gif/speech-recognition-sample.gif)
+
+[https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/speech-recognition1.htm]()
+<br>
 
 
 
