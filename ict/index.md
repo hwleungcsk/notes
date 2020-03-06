@@ -1,36 +1,22 @@
-Heading
+HKDSE ICT
 =======
 
-##SubHeading1
+####Official information:
+<br>
+  ![HKEAA](http://www.hkeaa.edu.hk/images/logo.png)<p>
+  [HKDSE ICT C&A Guide](http://www.hkeaa.edu.hk/DocLibrary/HKDSE/Subject_Information/ict/2020hkdse-e-ict.pdf)
+
+<hr>
+<br>
+####About this site
+
+1. Quoted content
+  > Most of the contents refers to other resources on the internet. Text will be quoted and source link will be provided.
+
+2. Additional content
 
 
-  * list item 1
-  * list item 2
+  |Descriptions provided by me will be added inside tables.|
+  |---|
 
-  This is a hyperlink to [Google](http://google.com).
-
-  Images are like hyperlinks, but with an exclamation mark in front of them:
-  ![](http://placekitten.com/g/250/250)
-
-##SubHeading2
-
-
-  * list item 1
-  * list item 2
-
-  This is a hyperlink to [Google](http://google.com).
-
-  Images are like hyperlinks, but with an exclamation mark in front of them:
-  ![](http://placekitten.com/g/250/250)
-
-##SubHeading3
-
-
-  * list item 1
-  * list item 2
-
-  This is a hyperlink to [Google](http://google.com).
-
-  Images are like hyperlinks, but with an exclamation mark in front of them:
-  ![](http://placekitten.com/g/250/250)
 
