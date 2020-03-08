@@ -22,8 +22,6 @@ c. Please notice not all contents are in theory 100% accurate. Some of the conte
 
 2. Additional content
 
-
   |Descriptions provided by me will be added inside tables.|
   |---|
-
 

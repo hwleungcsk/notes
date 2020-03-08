@@ -149,12 +149,68 @@
 [https://whatis.techtarget.com/definition/digitization]()
 <br>
 
-  Convert analog (consecutive) data into digital (discrete) data
+  |Audio digitization: Sound wave is a continuous data. We need to record data at specific interval (sampling rate). And use n-bits to store each data (sampling size). The higher sampling rate and sampling size means the "samples" are more similar to the original data|
+|---|
 
   ![Digitize audio data](https://cdn.hswstatic.com/gif/speech-recognition-sample.gif)
 
 [https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/speech-recognition1.htm]()
 <br>
 
+   |Image digitization: Imagine a computer divide an image into "grids". Choose the most appropriate color for each "box" (pixel). Resolution (pixels x pixels)means how many "boxes" are used to represent the image. Color depth (bits) means how many bits are used for each "box". The higher resolution and color depth means the stored image is more similar to the original image|
+|---|
 
+  ![photo grid](https://www.tutelman.com/golf/measure/focalPlaneDistortion/pixelScan.gif)
 
+  [https://www.tutelman.com/golf/measure/focalPlaneDistortion.php]()
+
+##Common file formats
+
+Image file formats:
+
+![image file formats](http://www.ijri.org/articles/2012/22/1/images/IndianJRadiolImaging_2012_22_1_4_95396_b10.jpg)
+
+[http://www.ijri.org/viewimage.asp?img=IndianJRadiolImaging_2012_22_1_4_95396_b10.jpg]()
+<br>
+
+Audio file formats:
+
+![audio file formats](https://www.soundguys.com/wp-content/uploads/2017/12/Types-of-audio-formats_LK-1024x543.jpg)
+
+[https://www.soundguys.com/understanding-bluetooth-codecs-15352/]()
+<br>
+
+Video file formats:
+
+![video file formats](https://image.slidesharecdn.com/learningtechnologiesvideoworkshop-120619050823-phpapp01/95/video-workshop-7-728.jpg?cb=1340082719)
+
+[https://www.slideshare.net/sharonlflynn/video-workshop-13377887]()
+<br>
+
+Document file formats:
+
+| |Advantage|Disadvantage|
+|:-:|---|---|
+|DOC/DOCX|- Commonly supported for editing<br>- Support multimedia contents<br>- Support hyperlinks<br>- Support text/paragraph/page formatting|- Layout might be different on different devices/software version|
+|PDF|-Can maintain same page layout on different devices/printer<br>- Support multimedia contents<br>- Support hyperlinks<br>- Support text/paragraph/page formatting|- Need specific software to edit|
+|RTF|- Support basic formatting feature<br>- Cross platform|- Lack of features like multimedia|
+<br>
+
+Animation file formats
+
+| |GIF|Flash|
+|:-:|:-:|:-:|
+|Color depth|8 bits|24 bits|
+|Transparent|Y|N|
+|Browser plugin needed|N|Y|
+|Interaction|N|Y|
+|Audio support|N|Y|
+
+##Lossy and Lossless compression
+
+|Multimedia files could be very large in size (Video files can occupy GB of data in seconds). So it is generally accepted to "loss" some data for saving video (Eg, mp4) and audio (Eg, mp3) files.<br>The lost data cannot be restored during decompression. That means the quality is degraded/reduced.|
+|---|
+
+![Lossy vs Lossless](https://www.researchgate.net/profile/Shadi_M_Hilles/publication/330811813/figure/tbl1/AS:721611497938945@1549056996687/Lossy-and-Lossless-comparison.png)
+
+[https://www.researchgate.net/figure/Lossy-and-Lossless-comparison_tbl1_330811813]()
